@@ -1,0 +1,19 @@
+{
+  "name": "react-native-parkmodule",
+  "version": "1.0.0",
+  "description": "forRN",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spm1203/react-native-ParkModule.git"
+  },
+  "author": "spm1203",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spm1203/react-native-ParkModule/issues"
+  },
+  "homepage": "https://github.com/spm1203/react-native-ParkModule#readme"
+}
