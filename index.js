@@ -1,4 +1,3 @@
-import { AppRegistry } from 'react-native';
-import App from './App';
+import React, { NativeModules } from 'react-native';
+module.exports = NativeModules.ParkModule;
 
-AppRegistry.registerComponent('Park', () => App);
